@@ -24,6 +24,7 @@ namespace Pokus
 
             int c = a + b;
             label1.Text = "Soucet cisel je: " + c.ToString();
+            MessageBox.Show("Jsi zmrd");
         }
     }
 }
